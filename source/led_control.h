@@ -1,7 +1,7 @@
 #ifndef LED_CONTROL_H_
 #define LED_CONTROL_H_
 
-#include <stdint.h>
+//#include <stdint.h>
 
 // init GPIO pins
 void led_init(void);
