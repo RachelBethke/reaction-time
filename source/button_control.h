@@ -6,7 +6,7 @@
 // init SW1 and SW3 pins
 void button_init(void);
 
-void sw1_down(void);
-void sw3_down(void);
+int sw1_down(void);
+int sw3_down(void);
 
 #endif
